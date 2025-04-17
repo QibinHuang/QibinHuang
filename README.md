@@ -2,7 +2,7 @@
 ## I'm Qibin (Roger) Huang
 
 🎓 Data Science Master's Student @ The George Washington University  
-🌐 From Guangdong → 📍 Now in Arlington, VA  
+🌐 From Changsha, Hunan → 📍 Now in Arlington, VA  
 🧠 Obsessed with making messy data clean, models explainable, and dashboards not boring.
 
 ---
@@ -39,18 +39,22 @@ Currently tinkering with → **PyTorch**, **AWS Lambda**, and **Dockerized ML Pi
 ---
 
 ### 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QibinHuang&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+**Currently coding mostly in:**  
+🔹 Python for data pipelines, ML models, and scripting  
+🔹 SQL for wrangling & analytics (yes, I optimize queries 🙃)  
+🔹 R for causal inference and academic-style modeling  
+🔹 Power BI & Streamlit for visualization 
 
 ---
 
 ### 💡 Fun facts
 
 - ☁️ Currently deep diving into cloud + ML workflow optimization  
-- 🎸 Former lead vocalist & founder of a university folk band — wrote code by day, sang by moonlight  
-- 🏸 Badminton enthusiast (still undefeated in my apartment complex 🥇)  
-- 🎤 Once sang **“Take Me to Your Heart”** at the IMF vs. World Bank badminton match halftime show  
 - 📚 Deeply curious about the crossroads between **data science & philosophy** — especially when ethics meets automation  
 - 🧭 Favorite question to ask: *“What does this data hide, and what does it assume?”*
+- 🏸 Badminton enthusiast
+- 🎸 Former lead vocalist & founder of a university folk band — wrote code by day, sang by moonlight  
+- 🎤 Once sang **“Take Me to Your Heart”** at the IMF vs. World Bank badminton match halftime show  
 
 ---
 
@@ -58,8 +62,6 @@ Currently tinkering with → **PyTorch**, **AWS Lambda**, and **Dockerized ML Pi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/qibin-huang)  
 📧 qibinhuang0702@gmail.com  
-🌐 Personal Website (coming soon!)
-
 ---
 
 *Thanks for scrolling all the way down. Curious people make the best data scientists. Let's connect!*
